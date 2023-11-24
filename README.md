@@ -1,19 +1,25 @@
 ## CelularKits
 ### inicio
-![image](https://github.com/veronicaruizav/Actividad-2/assets/143547403/b6ccb523-74c6-4348-8b99-e9c60d42302d)
+![image](https://github.com/veronicaruizav/ACTIVIDAD-2-/assets/143547403/8aab5e79-f987-4688-b4b6-855d6668faf4)
+
 
 
 ### Agregando producto
-![imagen](https://github.com/veronicaruizav/CRUD-V2/assets/143547403/0ece8486-6586-4d3b-adc4-65097ac62c9a)
+![image](https://github.com/veronicaruizav/ACTIVIDAD-2-/assets/143547403/8215f93b-c50a-474c-a0c0-96f5b2b7e3b2)
+
 
 ### producto agregado
-![imagen](https://github.com/veronicaruizav/CRUD-V2/assets/143547403/2b55ded9-db03-407a-a008-6335a6101e97)
+![image](https://github.com/veronicaruizav/ACTIVIDAD-2-/assets/143547403/da6e9dc4-a3b2-412d-a8be-c5dca03b447d)
 
 ### producto eliminado
-![imagen](https://github.com/veronicaruizav/CRUD-V2/assets/143547403/673cf0e4-b8fe-4549-b460-3f360538351f)
+![image](https://github.com/veronicaruizav/ACTIVIDAD-2-/assets/143547403/74973098-141f-4d45-af23-7fbcc97a52aa)
+
 
 ### estructura de la tabla
-![imagen](https://github.com/veronicaruizav/CRUD-V2/assets/143547403/c9499d31-3ed4-465f-a351-11a48f913e8b)
+![image](https://github.com/veronicaruizav/ACTIVIDAD-2-/assets/143547403/9b383244-8df4-4ac8-ac1c-c2320a64a606)
+
+
 
 ### datos guardados en la base de datos
-![imagen](https://github.com/veronicaruizav/CRUD-V2/assets/143547403/dc55aa1e-9e87-40b7-8e55-6fc7be15a198)
+![image](https://github.com/veronicaruizav/ACTIVIDAD-2-/assets/143547403/ae49dfbf-ea33-4d75-9e0c-3e2a63c98427)
+
